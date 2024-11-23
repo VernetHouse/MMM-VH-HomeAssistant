@@ -1,0 +1,9 @@
+{
+  "name": "MMM-VH-HomeAssistant",
+  "version": "1.2.0",
+  "description": "Module MagicMirror pour afficher des données Home Assistant",
+  "main": "MMM-VH-HomeAssistant.js",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
